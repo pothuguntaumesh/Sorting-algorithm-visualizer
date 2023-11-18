@@ -32,18 +32,12 @@ Welcome to the Sorting Visualizer project! This Python application, built using 
     cd sorting-visualizer
     ```
 
-4. Install required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the application:
 
     ```bash
-    python main.py
+    python sortingAlorithms.py
     ```
 
 2. Select a sorting algorithm from the dropdown menu.
@@ -67,7 +61,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
