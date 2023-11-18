@@ -23,7 +23,7 @@ Welcome to the Sorting Visualizer project! This Python application, built using 
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/sorting-visualizer.git
+    git clone https://github.com/pothuguntaumesh/sorting-visualizer.git
     ```
 
 3. Navigate to the project directory:
