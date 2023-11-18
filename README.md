@@ -47,6 +47,7 @@ Welcome to the Sorting Visualizer project! This Python application, built using 
 ## Supported Algorithms
 
 - Bubble Sort
+- Selection Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
